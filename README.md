@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Nissyaniss</h1>
+<h3 align="center">A Student in Computer Science, doing things</h3>
+
+- 🔭 I’m currently working on [BetterReMove](https://github.com/Nissyaniss/BetterReMove)
+
+- 🌱 I’m currently learning **Rust and Java**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ylasbordes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ylasbordes" height="30" width="40" /></a>
