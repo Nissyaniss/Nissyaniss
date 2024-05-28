@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nissyaniss</h1>
+<h1 align="center">Hi 👋, I'm Nissya</h1>
 <h3 align="center">A Student in Computer Science, doing things</h3>
 - 🔭 I’m currently working on [BetterReMove](https://github.com/Nissyaniss/BetterReMove)
 - 🌱 I’m currently learning **Rust and Java**
